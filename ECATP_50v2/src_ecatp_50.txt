@@ -1,0 +1,5 @@
+"C:\\Documents and Settings\\Daniel\\My Documents\\JCreator LE\\MyProjects\\ECATP_50\\ECATP_50.java"
+"C:\\Documents and Settings\\Daniel\\My Documents\\JCreator LE\\MyProjects\\ECATP_50\\ECATPadapt.java"
+"C:\\Documents and Settings\\Daniel\\My Documents\\JCreator LE\\MyProjects\\ECATP_50\\hptest.java"
+"C:\\Documents and Settings\\Daniel\\My Documents\\JCreator LE\\MyProjects\\ECATP_50\\Keyin.java"
+"C:\\Documents and Settings\\Daniel\\My Documents\\JCreator LE\\MyProjects\\ECATP_50\\Rawsample.java"

@@ -1,0 +1,6 @@
+(Coverage%+Confidence Level+Normal factor+Error+Samples needed),0.95,0.95,1.645,0.01,1285
+(Coverage%+Confidence Level+Normal factor+Error+Samples needed),0.95,0.95,1.645,0.015,571
+(Coverage%+Confidence Level+Normal factor+Error+Samples needed),0.95,0.95,1.645,0.02,321
+(Coverage%+Confidence Level+Normal factor+Error+Samples needed),0.95,0.95,1.645,0.025,206
+(Coverage%+Confidence Level+Normal factor+Error+Samples needed),0.95,0.95,1.645,0.03,143
+(Coverage%+Confidence Level+Normal factor+Error+Samples needed),0.95,0.95,1.645,0.035,105
